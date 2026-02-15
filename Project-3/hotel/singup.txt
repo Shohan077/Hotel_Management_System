@@ -1,4 +1,0 @@
-Name : Isti
-Password : 12345
-Name : Ayesha
-Password : 2468
