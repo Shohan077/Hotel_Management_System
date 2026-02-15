@@ -1,0 +1,6 @@
+Flight: Flying Hawk
+From: Rajshahi
+To: Dhaka
+Departure: 8.30pm
+Arrival: 9.10pm
+Seat type: Ecomony

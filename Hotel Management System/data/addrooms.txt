@@ -1,0 +1,37 @@
+Room No : 111
+Room Status : Available
+Bed Type: Single Bed
+Clean Status : Cleaned
+Price : 4999
+
+Room No : 333
+Room Status : Occupied
+Bed Type: Double Bed
+Clean Status : Dirty
+Price : 9999
+
+Room No : 444
+Room Status : Available
+Bed Type: Double Bed
+Clean Status : Cleaned
+Price : 9999
+
+
+Room No : 666
+Room Status : Occupied
+Bed Types : Double Bed
+Clean Status : Cleaned
+Price : 10000
+
+Room No : 777
+Room Status : Available
+Bed Types : Single Bed
+Clean Status : Cleaned
+Price : 5000
+
+Room No : 777
+Room Status : Available
+Bed Types : Single Bed
+Clean Status : Cleaned
+Price : 5000
+

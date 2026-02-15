@@ -1,0 +1,17 @@
+Name : Rifat
+NID : 12345678
+Gender : Male
+Car Type : SUV
+Available Status : Available
+
+Name : Hasan
+NID : 12345679
+Gender : Male
+Car Type : Crossover
+Available Status : Booked
+
+Name : Tanvir
+NID : 12345675
+Gender : Male
+Car Type : Sedan
+Available Status : Available

@@ -1,0 +1,12 @@
+Room No : Rifat
+Name : 12345678
+NID : Male
+Gender : SUV
+ Car Type : Available
+
+Room No : Hasan
+Name : 12345679
+NID : Male
+Gender : Crossover
+ Car Type : Booked
+

@@ -1,0 +1,42 @@
+Name: Sakib Khan
+Age : 25
+Job Position : Hotel manager
+Salary  : 30000.0
+ Phone : 1555556789
+ Available Status : : sakib@gmail.com
+
+Name: Peter
+Age : 27
+Job Position : Assistant hotel manager
+Salary  : 25000.0
+ Phone : 1555556788
+ Available Status : : peter@gmail.com
+
+Name: Sabbir 
+Age : 27
+Job Position : Front of house manager
+Salary  : 25000.0
+ Phone : 1555556787
+ Available Status : : sabbir@gmail.com
+
+Name : test
+Age : 15
+Job Position : Hotel manager
+Salary : 124.0
+Phone : 12
+Email : test
+
+Name : test
+Age : 15
+Job Position : Hotel manager
+Salary : 124.0
+Phone : 12
+Email : test
+
+Name : test
+Age : 15
+Job Position : Hotel manager
+Salary : 124.0
+Phone : 12
+Email : test
+
