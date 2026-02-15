@@ -1,6 +1,0 @@
-Flight: Flying Hawk 2
-From: Dhaka
-To: Sylhet
-Departure: 1.30pm
-Arrival: 2.20am
-Seat type: Ecomony

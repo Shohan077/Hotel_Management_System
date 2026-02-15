@@ -1,6 +1,0 @@
-Flight: 
- From: 
- To: 
- Departure: 
- Arrival: 
- Seat Type: 

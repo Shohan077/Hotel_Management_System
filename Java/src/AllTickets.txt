@@ -1,8 +1,0 @@
-To: Rajshahi
-Departure: 8.30am
-Arrival: 9.10am
-Seat type: Ecomony
-Passenger Name : ovi
-Date of Journey : 1234
-Total Seats : 3
-Total Fare : 9600
